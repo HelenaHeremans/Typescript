@@ -44,3 +44,4 @@ var Colors;
     Colors["Green"] = "#00FF00";
     Colors["Blue"] = "#0000FF";
 })(Colors || (Colors = {}));
+//# sourceMappingURL=index.js.map

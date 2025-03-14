@@ -47,3 +47,4 @@ console.log(favoritePlanetInfo);
 let mijnData = "het is 2025";
 let externeInput = "Hallo wereld,";
 console.log(externeInput, mijnData);
+//# sourceMappingURL=oef.js.map
